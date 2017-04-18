@@ -9,11 +9,13 @@
 
 # Deploying Ghost to IBM Bluemix
 
+**NOTE:** This is forked from Marc D'arcys github account and has been updated to v11.
+
 ## 1-click button auto deploy
 
 Use this 1-click button to auto deploy a new Ghost blog to your IBM Bluemix account:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/darcy202/bluemix-ghost)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/hedpuqz/bluemix-ghost)
 
 ## Or you can manually configure and deploy
 
